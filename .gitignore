@@ -1,0 +1,7 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# 运行产物（由爬虫/通知任务生成，重新运行会自动生成）
+output/
